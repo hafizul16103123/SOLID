@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hafizul16103123/SOLID/issues"
   },
-  "homepage": "https://github.com/hafizul16103123/SOLID#readme"
+  "homepage": "https://github.com/hafizul16103123/SOLID#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
 }
