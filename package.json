@@ -1,0 +1,23 @@
+{
+  "name": "solid-principal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hafizul16103123/SOLID.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hafizul16103123/SOLID/issues"
+  },
+  "homepage": "https://github.com/hafizul16103123/SOLID#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
